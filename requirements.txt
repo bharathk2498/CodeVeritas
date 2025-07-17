@@ -1,0 +1,32 @@
+# AI/ML Dependencies
+torch==2.0.1
+transformers==4.30.2
+tensorflow==2.13.0
+scikit-learn==1.3.0
+numpy==1.24.3
+pandas==1.5.3
+
+# Blockchain Dependencies  
+web3==6.8.0
+eth-account==0.9.0
+eth-hash==0.5.2
+py-solc-x==1.12.0
+
+# Security & Analysis
+bandit==1.7.5
+safety==2.3.5
+semgrep==1.31.1
+pylint==2.17.4
+
+# Utility
+requests==2.31.0
+python-dotenv==1.0.0
+pyyaml==6.0
+click==8.1.6
+colorama==0.4.6
+tqdm==4.65.0
+
+# Testing
+pytest==7.4.0
+pytest-asyncio==0.21.1
+pytest-mock==3.11.1
